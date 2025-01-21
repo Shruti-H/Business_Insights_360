@@ -1,0 +1,2 @@
+../BI_360_project_final.pbix filter=lfs diff=lfs merge=lfs -text
+bi_360_project_final.pbix filter=lfs diff=lfs merge=lfs -text
