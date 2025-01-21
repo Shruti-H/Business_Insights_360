@@ -1,13 +1,17 @@
 ## Project Overview
 
 AtliQ Hardware, a growing consumer electronics company, encountered significant losses in Latin America due to reliance on surveys and intuition for expansion decisions. Their Excel-based analytics system proved inadequate for handling the increasing volume of data, resulting in poor decision-making. To stay competitive and enable better strategic decisions, AtliQ Hardware decided to embrace data analytics and replace Excel with more advanced tools.
-
 This project is part of the Get Job Ready: Power BI Data Analytics for All Levels 3.0 course cum certification program from Codebasics, where I gained hands-on experience with Power BI and data analytics concepts. It aims to provide actionable insights for stakeholders across various dimensions, including finance, sales, marketing, supply chain, and executive decision-making.
 ### Objectives 
 AtliQ wants to make data-driven decision-making a part of their work culture and is taking their first big step towards that by embedding a Power BI tool in the organization. The key objectives of this project are:
 - Implement data analytics and provide actionable insights.
 - Use Power BI to enable data-driven decision-making across AtliQ's operations.
 - Enable quick insights for business across markets to drive strategic decisions.
+
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZGNiNDI5NWEtZjFiYS00NWVlLTgwYzEtMGVjNjQyZTUzMWE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=f8a001aa12a7e2774880
+
+Note: If the view appears zoomed in, please click on "Fit to Page" to adjust the view properly. This dashboard is optimized for a resolution of 1080x1920.
+
 ### Data Sources
 
 - **MySQL Database: gdb041**  
@@ -120,7 +124,7 @@ The following dashboards were created in the final Power BI report to present in
   - A **table** showing key metrics by sub-zone.
   - **Matrices** displaying the top 5 products and customers by revenue.
  <img width="677" alt="Image" src="https://github.com/user-attachments/assets/c8aa551a-7104-41de-bd74-b407f25e5d51" />
- 
+
 **Other Visuals and Techniques Learned**:
 - Creating slicers for filtering and selection.
 - Using **Card** visual to display KPIs.
