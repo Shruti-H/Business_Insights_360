@@ -1,6 +1,7 @@
 ## Project Overview
 
 AtliQ Hardware, a growing consumer electronics company, encountered significant losses in Latin America due to reliance on surveys and intuition for expansion decisions. Their Excel-based analytics system proved inadequate for handling the increasing volume of data, resulting in poor decision-making. To stay competitive and enable better strategic decisions, AtliQ Hardware decided to embrace data analytics and replace Excel with more advanced tools.
+
 This project is part of the Get Job Ready: Power BI Data Analytics for All Levels 3.0 course cum certification program from Codebasics, where I gained hands-on experience with Power BI and data analytics concepts. It aims to provide actionable insights for stakeholders across various dimensions, including finance, sales, marketing, supply chain, and executive decision-making.
 ### Objectives 
 AtliQ wants to make data-driven decision-making a part of their work culture and is taking their first big step towards that by embedding a Power BI tool in the organization. The key objectives of this project are:
@@ -8,9 +9,23 @@ AtliQ wants to make data-driven decision-making a part of their work culture and
 - Use Power BI to enable data-driven decision-making across AtliQ's operations.
 - Enable quick insights for business across markets to drive strategic decisions.
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZGNiNDI5NWEtZjFiYS00NWVlLTgwYzEtMGVjNjQyZTUzMWE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=f8a001aa12a7e2774880
+## Power BI Report and PBIX File
 
-Note: If the view appears zoomed in, please click on "Fit to Page" to adjust the view properly. This dashboard is optimized for a resolution of 1080x1920.
+The Power BI report provides a live interactive dashboard on **Power BI Service**. [Click here to access the live report](https://app.powerbi.com/view?r=eyJrIjoiZGNiNDI5NWEtZjFiYS00NWVlLTgwYzEtMGVjNjQyZTUzMWE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=f8a001aa12a7e2774880).
+
+Note: If the view appears zoomed in, please zoom out or click on "Fit to Page" to adjust the view properly. This dashboard is optimized for a resolution of 1080x1920.
+
+### PBIX File
+
+The **PBIX file** containing the Power BI report is available for download from the GitHub release:  
+[Download BI_360_project_final.pbix](https://github.com/Shruti-H/Business_Insights_360/releases/download/v1.0.1/BI_360_Report.pbix)
+
+### Video Demonstration
+
+A video recording demonstrating the live report and its key features is available for download from the GitHub release:  
+[View Video](https://github.com/Shruti-H/Business_Insights_360/releases/download/v1.0.1/BI_360_Report_Demo.mp4)
+
+
 
 ### Data Sources
 
@@ -141,6 +156,8 @@ These transformations and visualizations helped convert raw data into actionable
 - Mastered data transformation and cleansing techniques like **data type conversion**, **text manipulation**, and **removal of white spaces**.
 ### Conclusion
 This Power BI project transformed AtliQ Hardware's data into actionable insights across multiple departments. By leveraging the capabilities of Power BI, I was able to provide stakeholders with interactive dashboards and detailed visualizations that support data-driven decisions, enhancing the overall business performance.
+
+
 
 
 
