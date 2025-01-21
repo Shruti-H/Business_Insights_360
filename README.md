@@ -1,6 +1,7 @@
 ## Project Overview
 
 AtliQ Hardware, a growing consumer electronics company, encountered significant losses in Latin America due to reliance on surveys and intuition for expansion decisions. Their Excel-based analytics system proved inadequate for handling the increasing volume of data, resulting in poor decision-making. To stay competitive and enable better strategic decisions, AtliQ Hardware decided to embrace data analytics and replace Excel with more advanced tools.
+
 This project is part of the Get Job Ready: Power BI Data Analytics for All Levels 3.0 course cum certification program from Codebasics, where I gained hands-on experience with Power BI and data analytics concepts. It aims to provide actionable insights for stakeholders across various dimensions, including finance, sales, marketing, supply chain, and executive decision-making.
 ### Objectives 
 AtliQ wants to make data-driven decision-making a part of their work culture and is taking their first big step towards that by embedding a Power BI tool in the organization. The key objectives of this project are:
