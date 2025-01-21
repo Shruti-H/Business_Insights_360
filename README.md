@@ -18,12 +18,12 @@ Note: If the view appears zoomed in, please zoom out or click on "Fit to Page" t
 ### PBIX File
 
 The **PBIX file** containing the Power BI report is available for download from the GitHub release:  
-[Download BI_360_project_final.pbix](https://github.com/Shruti-H/Business_Insights_360/releases/download/v1.0.1/BI_360_Report.pbix)
+[Download BI_360_project_final.pbix](https://github.com/Shruti-H/Business_Insights_360/releases/download/untagged-2304d2f70d363957e325/BI_360_Report.pbix)
 
 ### Video Demonstration
 
 A video recording demonstrating the live report and its key features is available for download from the GitHub release:  
-[View Video](https://github.com/Shruti-H/Business_Insights_360/releases/download/v1.0.1/BI_360_Report_Demo.mp4)
+[View Video](https://github.com/Shruti-H/Business_Insights_360/releases/download/untagged-2304d2f70d363957e325/BI_360_Report_Demo.mp4)
 
 
 
